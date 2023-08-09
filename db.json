@@ -1,0 +1,105 @@
+{
+    "menu": {
+      "breakfast": [
+        {
+          "id": 1,
+          "img": "https://cdn.pixabay.com/photo/2017/03/13/13/39/pancakes-2139844_640.jpg",
+          "name": "Pancakes",
+          "description": "Fluffy buttermilk pancakes served with maple syrup.",
+          "price": 50
+        } ,
+        {
+            "id": 2,
+            "img":"https://media.istockphoto.com/id/637149150/photo/cooking-french-toast.jpg?s=612x612&w=0&k=20&c=AHWSnsBx4OkhVZ59wcPGH6QIIosp6RHJLPOEJEDCGqk=",
+            "name": "Toast",
+            "description": "egg toasted bread.",
+            "price": 50
+        },
+        {
+            "id": 3,
+            "img":"https://cdn.pixabay.com/photo/2015/05/20/16/11/kitchen-775746_640.jpg",
+          "name": "omellete",
+          "description": "Farm eggs with cheese, pepper,onion, tomato.",
+          "price": 80
+        }
+    ],
+    "lunch":[
+        {
+          "id": 4,
+          "img":"https://img.freepik.com/premium-photo/butter-chicken_466689-54441.jpg?size=626&ext=jpg",
+           "name": "Butter chicken",
+           "description" : "indian recipe butter chicken ",
+           "price" :500
+        },
+        {
+            "id": 5,
+            "img":"https://media.istockphoto.com/id/538012465/photo/ribs-calf.jpg?s=612x612&w=0&k=20&c=lUAc4VrJrsROfwKt9gSneR-n-7J6jQIHF2LCaFwR4IQ=",
+           "name": "Goat Meat",
+           "description" : "Tender goat meat served with a barbacue sauce",
+           "price" :400
+        }
+    ],
+    "dinner":[
+        {
+          "id": 6,
+          "img":"https://img.freepik.com/free-photo/sour-curry-with-snakehead-fish-spicy-garden-hot-pot-thai-food_1150-26409.jpg?size=626&ext=jpg",
+           "name": "fish",
+           "description" : "tilapia fish served with a coastal sauce",
+           "price" :500
+        },
+        {
+            "id": 7,
+            "img":"https://media.istockphoto.com/id/541851706/photo/grilled-beef-steaks.jpg?s=612x612&w=0&k=20&c=QxxzTMq0CO7qCHRGFoWzn5s1V0kCAHFLRJqsN7ttnI4=",
+           "name": "Beef",
+           "description" : "off the bone beef served with a barbacue sauce ",
+           "price" :500
+        }
+    ],
+    "drinks":[
+        {
+          "id": 8,
+          "img":"https://media.istockphoto.com/id/157528129/photo/mug-on-plate-filled-with-coffee-surrounded-by-coffee-beans.jpg?s=612x612&w=0&k=20&c=W_za-myO9QP_dimiJeZXsR4G2GHjrdo0RTyO3yVhopQ=",
+           "name": "coffee",
+           "description" : " black coffee",
+           "price" :100
+        },
+        {
+            "id": 9,
+            "img":"https://media.istockphoto.com/id/922372526/photo/energy-tonic-drink-with-turmeric-ginger-lemon-and-honey.jpg?s=612x612&w=0&k=20&c=InqDJs169ySaqt5TbFvZyh16wDa7pQgHQmn7j0gVse0=",
+           "name": "ginger lemon tea",
+           "description" : "a hot mug of ginger and lemon tea",
+           "price" :100
+        },
+           {"id": 10,
+           "img":"https://img.freepik.com/free-photo/colorful-cocktail-with-orange-slice-cocktail-umbrella-green-black-straw_140725-10521.jpg?size=626&ext=jpg",
+           "name": "Juice",
+           "description" : "a cocktail of tropical juices",
+           "price" :150
+    } 
+
+    ],
+    "accompaniments":[
+        {
+          "id": 11,
+          "img":"https://img.freepik.com/free-photo/top-view-delicious-fries-sauce_23-2149235944.jpg?size=626&ext=jpg",
+           "name": "fries",
+           "description" : " delicious potato fries",
+           "price" :200
+        },
+        {
+            "id": 12,
+            "img":"https://media.istockphoto.com/id/1334473708/photo/delicious-fergana-pilaf-uzbek-favorite-dish-on-wooden-background.jpg?s=612x612&w=0&k=20&c=utQW2zyWTVWgLGsvwoNpPTnCFqCOrj_CQ0oVBwg-dJM=",
+           "name": "pilau ",
+           "description" : "indian recipe pilau rice",
+           "price" :300
+        },
+        {
+           "id": 13,
+           "img":"https://cdn.pixabay.com/photo/2018/07/18/19/12/pasta-3547078_640.jpg",
+           "name": "Pasta",
+           "description" : "italian recipe pasta ",
+           "price" :350
+    }   
+    ]
+    }
+}

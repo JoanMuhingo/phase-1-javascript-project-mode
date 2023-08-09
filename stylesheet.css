@@ -1,0 +1,111 @@
+.header{
+    position:fixed;
+    top:0%; left:0; right:0;
+    color: purple;
+    align-items: center;
+    justify-content: space-between;
+    padding:2rem 9%;
+
+}
+.header .navbar a{
+    font-size: 2rem;
+    color: purple;
+    text-decoration: none;
+    margin-right: 1.2rem;
+    padding: 0.5rem;
+}
+.header .navbar a:hover{
+    color: black;
+    background-color: plum;
+    border-radius:0.5rem;
+}
+
+body{
+    background-color: bisque;
+}
+html{
+    font-size: 62.5%;
+    overflow-x:hidden;
+    scroll-behavior: smooth;
+    scroll-padding-top: 7rem;
+    background-color: bisque;
+}
+.heading{
+    text-align: center;
+    padding:2rem 2rem;
+    font-size:3.5rem;
+    color:purple;
+    clip-path: polygon(100% 0, 93% 50%, 100% 99%, 0% 100%, 7% 50%, 0% 0%);
+}
+#menu .content {
+    background:no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top:10rem;
+    padding-bottom:10rem;
+    
+}
+#menu img{
+    margin:2.5rem;
+    padding:2.3rem;
+}
+#menu .content h3{
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(218, 2, 218);
+}
+#menu .content h3 span{
+    color:purple;
+}
+
+.itemElement{
+   border: 1px solid #ccc;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+.itemElement img{
+    position:center;
+    max-width: 100%;
+    max-height:100%;
+}
+
+.itemElement h2{
+    color: purple;
+    font-size: 3rem;
+
+}
+.itemElement p{
+    font-size: 2.5rem;
+    color:plum;
+
+}
+.itemElement p .price{
+    color:purple;
+    font-size:1.7rem;
+}
+
+.itemElement button{
+    color:purple;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    background-color: white;
+    padding:1rem 1rem;
+    text-align:center;
+    margin-right: 2rem;
+    
+}
+.itemElement button:hover{
+    color:plum;
+    background-color: black;
+}
+.contacts p{
+    font-size: 1.5rem;
+    color:purple;
+}
