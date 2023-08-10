@@ -42,6 +42,8 @@ function displayData(box, item){
 function orderItem(itemName){
     alert(`your ${itemName}order has been received`)
 };
+displayData();
+orderItem();
 
 function displayMenu(){
     fetch("http://localhost:3000/menu")
@@ -84,3 +86,5 @@ function displayItems(box, section, items) {
         box.appendChild(itemElement);
     });
 }
+
+displayMenu();
